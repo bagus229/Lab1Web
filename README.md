@@ -54,9 +54,9 @@ Halaman Eksternal:
 ### Pertanyaan
 1. Adakah error ketika terjadi kesalahan penulisan tag?
 
-2. Apa perbedaan tag <p> dengan <br>?
+2. Apa perbedaan tag p dengan br?
 
-3. Apa perbedaan atribut title dan alt pada tag <img>?
+3. Apa perbedaan atribut title dan alt pada tag img?
 
 4. Agar proporsional, sebaiknya atribut width dan height diisi semua atau tidak? Jelaskan.
 
@@ -65,7 +65,7 @@ Halaman Eksternal:
 Jawaban
 1. Untuk kode tidak ada yang terjadi error ketika saya mencoba beberapa tag html. tapi untuk image ketika saya menaruh di folder yang berbeda masih suka terjadi error yaitu gambarnya tidak muncul.
 
-2. Tag <p> berfungsi untuk memuat paragraf yang berisikan kata-kata atau kalimat. sedangkan tag <br> berfungsi untuk membuat baris baru dalam setiap paragraf.
+2. Tag p berfungsi untuk memuat paragraf yang berisikan kata-kata atau kalimat. sedangkan tag br berfungsi untuk membuat baris baru dalam setiap paragraf.
 
 3. kalau atribut tittle berfungsi sebagai informasi tambahan pas ketika kursor diarahkan ke suatu elemen maka akan muncul namanya. sedangkan atribut alt itu sebagai pengganti ketika gambar yang dimasukkan tidak muncul. maka alt akan menampilkan kalimat yang sudah dibuat sebagai penganti logo yang tidak muncul.
 
